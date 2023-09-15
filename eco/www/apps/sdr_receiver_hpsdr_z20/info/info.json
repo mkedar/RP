@@ -1,0 +1,6 @@
+{
+    "name": "SDR receiver compatible with HPSDR",
+    "version": "1.0-20230504",
+    "revision": "9253aa5e",
+    "description": "SDR receiver emulating a HPSDR receiver with a network interface and eight receivers. (by Pavel Demin)"
+}

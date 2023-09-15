@@ -1,0 +1,6 @@
+origin/unify/dev remotes/origin/unify/dev
+commit bf0b41388a76a12f3558d2a00b5311dc25ca7c7a
+Author: jure.trnovec <jure.trnovec@i-tech.si>
+Date:   Mon Aug 21 10:41:37 2023 +0200
+
+    Fixing some problems with triggering on 250 and data valid pulse alignment.

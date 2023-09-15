@@ -1,0 +1,1 @@
+all:{ build/fpga/z20_125_4ch/v0.94/fpga.bit }

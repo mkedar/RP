@@ -1,0 +1,7 @@
+{
+    "name": "Ecosystem",
+    "version": "2.00-0",
+    "revision": "385d29a51",
+    "description": "Red Pitaya GNU/Linux OS & Ecosystem.",
+    "linux_ver":"2.01"
+}

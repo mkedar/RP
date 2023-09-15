@@ -1,0 +1,1 @@
+all:{ build/fpga/z20_250/barebones_250/fpga.bit }

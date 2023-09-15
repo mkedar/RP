@@ -1,0 +1,1 @@
+all:{ build/fpga/z10_125/stream_app/fpga.bit }

@@ -1,0 +1,6 @@
+unify/dev tags/Release_2023.2^2
+commit b9fdbdea89dd1f5c3e92791311e170fe4e7af28e
+Author: jure.trnovec <jure.trnovec@i-tech.si>
+Date:   Thu Jul 20 16:06:20 2023 +0200
+
+    remove unnecessary pullup

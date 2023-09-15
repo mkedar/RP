@@ -1,0 +1,10 @@
+##############################################################################
+# Red Pitaya GNU/Linux Ecosystem
+# Version: 2.00-385d29a51
+# Build: 146
+# Branch: 
+# Commit: 385d29a512f2fc6aa0b453a6371c7e216a485db8
+# U-Boot: "redpitaya-v2022.1"
+# Linux Kernel: "branch-redpitaya-v2022.3"
+# Pro Applications: ""
+##############################################################################

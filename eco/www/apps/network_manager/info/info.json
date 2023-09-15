@@ -1,0 +1,6 @@
+{
+    "name": "Network Manager",
+    "version": "0.94-0",
+    "revision": "385d29a51",
+    "description": "Simple way to establish network connection with the Red Pitaya"
+}
